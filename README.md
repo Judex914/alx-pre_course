@@ -1,2 +1,2 @@
-READMe for the repository
+READMe.md for the repository
 README update from github.com
